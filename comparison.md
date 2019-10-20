@@ -34,7 +34,7 @@ Qemu usermode does similar thing, that is to emulate whole executable binaries i
 - Binee supports only Windows. Qiling Framework supports more platforms and architecture
 
 ##### Qiling Framework vs Wine
-- Wine is an emulation tool not intended for analysis purpose. It only emulates Windows on Linux, Mac, FreeBSD, and Solaris, allowing user to run Windows applications on *NIX platforms
+- Wine is an emulation tool not intended for analysis purpose. It only emulates Windows on Linux, Mac, FreeBSD, and Solaris, allowing user to run Windows applications on \*NIX platforms
 - Qiling Framework is not built for this purpose, although it is possible to run applications from many other platforms and archirectures. Qiling is meant for security analysis
 
 ##### Qiling Framework vs Cuckoo Sandbox
