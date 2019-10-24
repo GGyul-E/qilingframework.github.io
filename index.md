@@ -37,8 +37,9 @@ Qiling Framework is able to run on top of Windows/MacOS/Linux/FreeBSD without CP
 
 <h1>How Qiling Framework Works</h1>
 ##### Demo Setup
-- *Hardware : X86 64bit*
-- *OS : Ubuntu 18.04 64bit*
+
+  - *Hardware : X86 64bit*
+  - *OS : Ubuntu 18.04 64bit*
 
 ##### Demo #1 Catching Wannacry's killer switch
 Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
