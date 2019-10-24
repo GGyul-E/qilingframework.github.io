@@ -8,7 +8,7 @@ Common techniques used to perform analysis such as full system emulation, user-m
 * [1] Research from SonicWall has revealed that a record high of 10.52bn malware attacks occurred in 2018 indicating an escalation in the volume of cyberattacks as well as new targeted threat tactics used by cybercriminals
 
 ---
-<h1>Why Qiling Framework</h1>
+<h1>Solution</h1>
 Qiling Framework is aimed to change IoT security research, malware analysis and reverse engineering landscape. The main objective is to build a cross-platform and multi-architecture framework and not just another reverse engineering tool. 
 
 Qiling Framework is designed as a binary instrumentation and binary emulation framework that supports cross-platform and multi-architecture. It is packed with powerful features such as code interception and arbitrary code injection before or during a binary execution. It is also able to patch a packed binary during execution.
