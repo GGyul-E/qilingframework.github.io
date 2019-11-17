@@ -72,3 +72,25 @@ sudo make install
 ```
 
 Once completed workaround installation, run Qiling Framework setup.
+
+---
+
+#### Setting Qiling Framework docker container
+If quick and easy way to deploy Qiling Framework is preferred, spin it with docker container.
+
+##### Building Qiling Framework docker image
+Building the Qiling Framework docker by running command below within source directory.
+
+```
+docker build -t qiling:1.0 .
+```
+
+##### Running Qiling Framework docker with a bind mount
+Required DLLs can be bind mount to Qiling Framework container. Presuming DLLs located in /analysis/win.
+
+```
+docker run -dt --name qiling \
+ -v /analysis/win/x86dlls:/qiling/examples/rootfs/x86_windows/dlls \
+ -v /analysis/win/x8664dlls:/qiling/examples/rootfs/x8664_windows/dlls \
+ qiling:1.0
+```
