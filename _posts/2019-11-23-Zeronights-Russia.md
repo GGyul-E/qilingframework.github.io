@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slides for Zeronights, Russia 2019
+title: Slides is ready-to-serve
 ---
 
-Slides for Zeronights, Russia is available at [https://www.qiling.io/docs/qiling_beta2019.pdf](https://www.qiling.io/docs/qiling_beta2019.pdf)
+Slides for Zeronights 2019, Russia is available at [https://www.qiling.io/docs/qiling_beta2019.pdf](https://www.qiling.io/docs/qiling_beta2019.pdf)
