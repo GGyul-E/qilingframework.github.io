@@ -99,4 +99,4 @@ docker run -dt --name qiling \
 docker exec -it qiling bash
 ```
 
-You may publish container port with -p switch. This is useful for emulating service such as httpd of a router.
+Docker container port can be published with -p switch. This is useful for emulating service such as httpd of a router.
