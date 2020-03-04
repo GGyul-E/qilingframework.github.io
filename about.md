@@ -51,7 +51,7 @@ Tong Yu is currently Master student of Beijing University of Posts and Telecommu
 
 
 <h3>Kevin FOO (chfl4gs)</h3>
-#### Dockerfile, documentation, Travis-CI and website
+#### Docker, documentation, Travis-CI and website
 
 Kevin is a security practitioner and previously involved in various projects such as the Honeynet project and Hex LiveCD project.
 
