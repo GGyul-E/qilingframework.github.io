@@ -8,10 +8,13 @@ permalink: /demo/
 - *Hardware : X86 64bit*
 - *OS : Ubuntu 18.04 64bit*
 
-##### Demo #1 Catching Wannacry's killer switch
+##### Demo #1 Solving simple CTF challenge with Qiling Framework and IDAPro
+[![qiling DEMO 1: Catching wannacry's killer switch](https://i.ytimg.com/vi/SPjVAt2FkKA/0.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
+
+##### Demo #2 Catching Wannacry's killer switch
 Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
 
-[![qiling DEMO 3: Catching wannacry's killer switch](https://img.youtube.com/vi/gVtpcXBxwE8/0.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Video DEMO 3")
+[![qiling DEMO 2: Catching wannacry's killer switch](https://img.youtube.com/vi/gVtpcXBxwE8/0.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Video DEMO 2")
 
 ###### Sample code
 
@@ -44,10 +47,10 @@ if __name__ == "__main__":
 ```
 ---
 
-##### Demo #2 Hotpatching a Windows crackme
+##### Demo #3 Hotpatching a Windows crackme
 Using Qiling Framework to dynamically patch a Windows crackme binary so that it always displays "Congratulation" dialog
 
-[![qiling DEMO 1: hotpatching a Windows crackme](http://img.youtube.com/vi/p17ONUbCnUU/0.jpg)](https://www.youtube.com/watch?v=p17ONUbCnUU "Video DEMO 1")
+[![qiling DEMO 3: hotpatching a Windows crackme](http://img.youtube.com/vi/p17ONUbCnUU/0.jpg)](https://www.youtube.com/watch?v=p17ONUbCnUU "Video DEMO 3")
 
 ###### Sample code
 
