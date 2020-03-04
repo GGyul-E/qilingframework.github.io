@@ -41,10 +41,14 @@ Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) witho
   - *Hardware : X86 64bit*
   - *OS : Ubuntu 18.04 64bit*
 
-##### Demo #1 Catching Wannacry's killer switch
+##### Demo #1 Solving simple CTF challenge with Qiling Framework and IDAPro
+[![qiling DEMO 1: Catching wannacry's killer switch](https://i.ytimg.com/vi/SPjVAt2FkKA/0.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
+
+---
+##### Demo #2 Catching Wannacry's killer switch
 Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
 
-[![qiling DEMO 1: Catching wannacry's killer switch](https://img.youtube.com/vi/gVtpcXBxwE8/0.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #1 Catching Wannacry's killer switch")
+[![qiling DEMO 2: Catching wannacry's killer switch](https://img.youtube.com/vi/gVtpcXBxwE8/0.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
 
 ###### Sample code
 
@@ -76,10 +80,10 @@ if __name__ == "__main__":
 0x126f0f1: InternetOpenUrlA(0x0, "http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com", "", 0x0, 0x84000000, 0x0)
 ```
 ---
-##### Demo #2 Emulating ARM router firmware on Ubuntu X64 machine
+##### Demo #3 Emulating ARM router firmware on Ubuntu X64 machine
 Qiling Framework hot-patch and emulate ARM router's /usr/bin/httpd on a X86_64Bit Ubuntu
 
-[![qiling DEMO 2: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://img.youtube.com/vi/Nxu742-SNvw/0.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #2 Emulating ARM router firmware on Ubuntu X64 machine")
+[![qiling DEMO 3: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://img.youtube.com/vi/Nxu742-SNvw/0.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #3 Emulating ARM router firmware on Ubuntu X64 machine")
 
 ```python
 from qiling import *
@@ -94,82 +98,4 @@ def my_sandbox(path, rootfs):
 
 if __name__ == "__main__":
     my_sandbox(["rootfs/tendaac15/bin/httpd"], "rootfs/tendaac15")
-```
----
-##### Demo #3 Hotpatching a Windows crackme
-Using Qiling Framework to dynamically patch a Windows crackme binary so that it always displays "Congratulation" dialog
-
-[![qiling DEMO 3: hotpatching a Windows crackme](https://img.youtube.com/vi/p17ONUbCnUU/0.jpg)](https://www.youtube.com/watch?v=p17ONUbCnUU "Demo #3 Hotpatching a Windows crackme")
-
-###### Sample code
-
-```python
-from qiling import *
-
-def force_call_dialog_func(ql):
-    # get DialogFunc address
-    lpDialogFunc = ql.unpack32(ql.mem_read(ql.sp - 0x8, 4))
-    # setup stack memory for DialogFunc
-    ql.stack_push(0)
-    ql.stack_push(1001)
-    ql.stack_push(273)
-    ql.stack_push(0)
-    ql.stack_push(0x0401018)
-    # force EIP to DialogFunc
-    ql.pc = lpDialogFunc
-
-
-def my_sandbox(path, rootfs):
-    ql = Qiling(path, rootfs)
-    # NOP out some code
-    ql.patch(0x004010B5, b'\x90\x90')
-    ql.patch(0x004010CD, b'\x90\x90')
-    ql.patch(0x0040110B, b'\x90\x90')
-    ql.patch(0x00401112, b'\x90\x90')
-    # hook at an address with a callback
-    ql.hook_address(0x00401016, force_call_dialog_func)
-    ql.run()
-
-
-if __name__ == "__main__":
-    my_sandbox(["rootfs/x86_windows/bin/Easy_CrackMe.exe"], "rootfs/x86_windows")
-```
-
-###### Execution output
-
-```
-0x10cae10: GetStartupInfo(0xffffdf40)
-0x1121fa7: GetStdHandle(0xfffffff6) = 0xfffffff6
-0x111fbc4: GetFileType(0xfffffff6) = 0x2
-0x1121fa7: GetStdHandle(0xfffffff5) = 0xfffffff5
-0x111fbc4: GetFileType(0xfffffff5) = 0x2
-0x1121fa7: GetStdHandle(0xfffffff4) = 0xfffffff4
-0x111fbc4: GetFileType(0xfffffff4) = 0x2
-0x1121fd1: SetHandleCount(0x20) = 32
-0x1121fbf: GetCommandLineA() = 0x501091b8
-0x111fcd4: GetEnvironmentStringsW() = 0x501091e4
-0x1117ffa: WideCharToMultiByte(0x0, 0x0, 0x501091e4, 0x1, 0x0, 0x0, 0x0, 0x0) = 2
-0x1117ffa: WideCharToMultiByte(0x0, 0x0, 0x501091e4, 0x1, 0x50002098, 0x2, 0x0, 0x0) = 1
-0x111fcbc: FreeEnvironmentStringsW(0x501091e4) = 1
-0x1116a0b: GetACP() = 437
-0x1121f8f: GetCPInfo(0x1b5, 0xffffdf44) = 1
-0x1121f8f: GetCPInfo(0x1b5, 0xffffdf1c) = 1
-0x111e43e: GetStringTypeW(0x1, 0x40541c, 0x1, 0xffffd9d8) = 0
-0x10ffc95: GetStringTypeExA(0x0, 0x1, 0x405418, 0x1, 0xffffd9d8) = 0
-0x111e39c: LCMapStringW(0x0, 0x100, 0x40541c, 0x1, 0x0, 0x0) = 0
-0x1128a50: LCMapStringA(0x0, 0x100, 0x405418, 0x1, 0x0, 0x0) = 0
-0x111e39c: LCMapStringW(0x0, 0x100, 0x40541c, 0x1, 0x0, 0x0) = 0
-0x1128a50: LCMapStringA(0x0, 0x100, 0x405418, 0x1, 0x0, 0x0) = 0
-0x111685a: GetModuleFileNameA(0x0, 0x40856c, 0x104) = 42
-0x10cae10: GetStartupInfo(0xffffdfa0)
-0x11169f3: GetModuleHandleA(0x00) = 400000
-0x104cf42: DialogBoxParamA(0x400000, 0x65, 0x00, 0x401020, 0x00) = 0
-Input DlgItemText :
-
-        << enter any string or number here >>
-
-0x1063d14: GetDlgItemTextA(0x00, 0x3e8, 0xffffdef4, 0x64) = 3
-0x105ea11: MessageBoxA(0x00, "Congratulation !!", "EasyCrackMe", 0x40) = 2
-0x1033ba3: EndDialog(0x00, 0x00) = 1
-0x1124d12: ExitProcess(0x01)
 ```
