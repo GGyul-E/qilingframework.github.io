@@ -42,7 +42,7 @@ Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) witho
   - *OS : Ubuntu 18.04 64bit*
 
 ##### Demo #1 Solving simple CTF challenge with Qiling Framework and IDAPro
-mini Qiling Framework Tutorial with how to work with IDAPro
+Mini Qiling Framework tutorial : how to work with IDAPro
 
 [![qiling DEMO 1: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo1-en.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
 
