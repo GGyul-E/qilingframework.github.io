@@ -44,13 +44,13 @@ Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) witho
 ##### Demo #1 Solving simple CTF challenge with Qiling Framework and IDAPro
 mini Qiling Framework Tutorial with how to work with IDApro
 
-[![qiling DEMO 1: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo1-en.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
+[![qiling DEMO 1: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/blob/master/images/demo1-en.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
 
 ---
 ##### Demo #2 Catching Wannacry's killer switch
 Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
 
-[![qiling DEMO 2: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo2-en.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
+[![qiling DEMO 2: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/blob/master/images/demo2-en.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
 
 ###### Sample code
 
@@ -85,7 +85,7 @@ if __name__ == "__main__":
 ##### Demo #3 Emulating ARM router firmware on Ubuntu X64 machine
 Qiling Framework hot-patch and emulate ARM router's /usr/bin/httpd on a X86_64Bit Ubuntu
 
-[![qiling DEMO 3: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo3-en.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #3 Emulating ARM router firmware on Ubuntu X64 machine")
+[![qiling DEMO 3: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/blob/master/images/demo3-en.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #3 Emulating ARM router firmware on Ubuntu X64 machine")
 
 ```python
 from qiling import *
