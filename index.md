@@ -44,13 +44,13 @@ Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) witho
 ##### Demo #1 Solving simple CTF challenge with Qiling Framework and IDAPro
 mini Qiling Framework Tutorial with how to work with IDApro
 
-[![qiling DEMO 1: Catching wannacry's killer switch](https://i.ytimg.com/vi/SPjVAt2FkKA/0.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
+[![qiling DEMO 1: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/www/master/images/demo1-en.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
 
 ---
 ##### Demo #2 Catching Wannacry's killer switch
 Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
 
-[![qiling DEMO 2: Catching wannacry's killer switch](https://img.youtube.com/vi/gVtpcXBxwE8/0.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
+[![qiling DEMO 2: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/www/master/images/demo2-en.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
 
 ###### Sample code
 
@@ -85,11 +85,11 @@ if __name__ == "__main__":
 ##### Demo #3 Emulating ARM router firmware on Ubuntu X64 machine
 Qiling Framework hot-patch and emulate ARM router's /usr/bin/httpd on a X86_64Bit Ubuntu
 
-[![qiling DEMO 3: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://img.youtube.com/vi/Nxu742-SNvw/0.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #3 Emulating ARM router firmware on Ubuntu X64 machine")
+[![qiling DEMO 3: Fully emulating httpd from ARM router firmware with Qiling on Ubuntu X64 machine](https://raw.githubusercontent.com/qilingframework/www/master/images/demo3-en.jpg)](https://www.youtube.com/watch?v=Nxu742-SNvw "Demo #3 Emulating ARM router firmware on Ubuntu X64 machine")
 
 ```python
 from qiling import *
-
+https://raw.githubusercontent.com/qilingframework/www/master/images/demo1-en.jpg
 def my_sandbox(path, rootfs):
     ql = Qiling(path, rootfs, stdin = sys.stdin, stdout = sys.stdout, stderr = sys.stderr)
     # Patch 0x00005930 from br0 to ens33
