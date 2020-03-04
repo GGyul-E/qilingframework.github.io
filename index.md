@@ -89,7 +89,6 @@ Qiling Framework hot-patch and emulate ARM router's /usr/bin/httpd on a X86_64Bi
 
 ```python
 from qiling import *
-https://raw.githubusercontent.com/qilingframework/www/master/images/demo1-en.jpg
 def my_sandbox(path, rootfs):
     ql = Qiling(path, rootfs, stdin = sys.stdin, stdout = sys.stdout, stderr = sys.stderr)
     # Patch 0x00005930 from br0 to ens33
