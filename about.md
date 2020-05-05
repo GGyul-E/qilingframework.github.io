@@ -53,7 +53,7 @@ Tong Yu is currently Master student of Beijing University of Posts and Telecommu
 <h3>Earl Marcus (klks84)</h3>
 #### Developer
 
-Earl Marcus is a weekend coder, hardware tinkerer and cybersecurity enthusiast in the corporate rat race. In his spare time, he loves playing CTF's and solving puzzles, currently part of the NanoSec Malaysia Conference review board and in his past life part of the HiTB CTF Crew.
+Earl Marcus is a weekend coder, hardware tinkerer and cybersecurity enthusiast in the corporate rat race. In his spare time, he loves playing CTF's and solving puzzles, currently part of the NanoSec Malaysia Conference review board and in his past life part of the HITB CTF Crew.
 
 ---
 
