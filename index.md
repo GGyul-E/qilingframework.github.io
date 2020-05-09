@@ -48,40 +48,12 @@ Mini Qiling Framework tutorial : how to work with IDAPro
 [![qiling DEMO 1: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo1-en.jpg)](https://www.youtube.com/watch?v=SPjVAt2FkKA "Video DEMO 1")
 
 ---
-##### Demo #2 Catching Wannacry's killer switch
-Qiling Framework executes Wannacry binary, hooking address 0x40819a to catch the killerswitch url
+##### Demo #2 Fuzzing with Qiling Unicornalf
+More information on fuzzing with Qiling can be found [here](https://github.com/qilingframework/qiling/examples/fuzzing/README.md).
 
-[![qiling DEMO 2: Catching wannacry's killer switch](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/demo2-en.jpg)](https://www.youtube.com/watch?v=gVtpcXBxwE8 "Demo #2 Catching Wannacry's killer switch")
+[![qiling DEMO 2: Fuzzing with Qiling Unicornalf](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/qilingfuzz-s.png)](ttps://raw.githubusercontent.com/qilingframework/qiling/examples/fuzzing/qilingfuzz.png "Demo #2 Fuzzing with Qiling Unicornalf")
 
-###### Sample code
 
-```python
-from qiling import *
-
-def stopatkillerswtich(ql):
-    ql.uc.emu_stop()
-
-if __name__ == "__main__":
-    ql = Qiling(["rootfs/x86_windows/bin/wannacry.bin"], "rootfs/x86_windows")
-    ql.hook_address(stopatkillerswtich, 0x40819a)
-    ql.run()
-```
-
-###### Execution output
-
-```
-0x1333804: __set_app_type(0x2)
-0x13337ce: __p__fmode() = 0x500007ec
-0x13337c3: __p__commode() = 0x500007f0
-0x132f1e1: _controlfp(0x10000, 0x30000) = 0x8001f
-0x132d151: _initterm(0x40b00c, 0x40b010)
-0x1333bc0: __getmainargs(0xffffdf9c, 0xffffdf8c, 0xffffdf98, 0x0, 0xffffdf90) = 0
-0x132d151: _initterm(0x40b000, 0x40b008)
-0x1001e10: GetStartupInfo(0xffffdfa0)
-0x104d9f3: GetModuleHandleA(0x00) = 400000
-0x125b18e: InternetOpenA(0x0, 0x1, 0x0, 0x0, 0x0)
-0x126f0f1: InternetOpenUrlA(0x0, "http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com", "", 0x0, 0x84000000, 0x0)
-```
 ---
 ##### Demo #3 Emulating ARM router firmware on Ubuntu X64 machine
 Qiling Framework hot-patch and emulates ARM router's /usr/bin/httpd on a X86_64Bit Ubuntu
