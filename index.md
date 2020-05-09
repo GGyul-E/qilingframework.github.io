@@ -49,9 +49,9 @@ Mini Qiling Framework tutorial : how to work with IDAPro
 
 ---
 ##### Demo #2 Fuzzing with Qiling Unicornalf
-More information on fuzzing with Qiling can be found [here](https://github.com/qilingframework/qiling/examples/fuzzing/README.md).
+More information on fuzzing with Qiling can be found [here](https://github.com/qilingframework/qiling/tree/dev/examples/fuzzing/README.md).
 
-[![qiling DEMO 2: Fuzzing with Qiling Unicornalf](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/qilingfuzz-s.png)](ttps://raw.githubusercontent.com/qilingframework/qiling/examples/fuzzing/qilingfuzz.png "Demo #2 Fuzzing with Qiling Unicornalf")
+[![qiling DEMO 2: Fuzzing with Qiling Unicornalf](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/qilingfuzz-s.png)](https://raw.githubusercontent.com/qilingframework/qiling/examples/fuzzing/qilingfuzz.png "Demo #2 Fuzzing with Qiling Unicornalf")
 
 
 ---
