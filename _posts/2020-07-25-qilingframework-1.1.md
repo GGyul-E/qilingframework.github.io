@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qiling Framework 1.1 release!
+title: Qiling Framework 1.1 released!
 ---
 
 
