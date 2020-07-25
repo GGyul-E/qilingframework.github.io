@@ -4,7 +4,7 @@ title: Qiling Framework 1.1 released!
 ---
 
 
-We are happy to announce Qiling Framework 1.1!
+We are happy to announce immediate availability of stable Qiling Framework 1.1!
 
 This stable release includes many bugfixes and improvements. We strongly recommend everyone to upgrade to latest version.
 
