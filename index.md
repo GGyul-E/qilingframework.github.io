@@ -31,6 +31,7 @@ Qiling Framework is able to emulate:
   - MacOS X86 32/64bit
   - FreeBSD X86 32/64bit
   - UEFI
+  - DOS
 
 Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) without CPU architecture limitation
 
