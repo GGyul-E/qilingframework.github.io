@@ -3,7 +3,6 @@ layout: page
 title: Donation
 permalink: /donation/
 ---
-<h1>Project support</h1>
 We would like to thank individuals/Organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
 
 - <h3>Silas Cutler</h3>
