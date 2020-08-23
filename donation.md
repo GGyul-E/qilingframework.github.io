@@ -3,7 +3,7 @@ layout: page
 title: Donation
 permalink: /donation/
 ---
-We would like to thank individuals/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
+We would like to thank individual/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
 
 - Silas Cutler
 - Alloysius Goh
