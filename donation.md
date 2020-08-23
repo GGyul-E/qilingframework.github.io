@@ -5,8 +5,8 @@ permalink: /donation/
 ---
 We would like to thank individuals/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
 
-> Silas Cutler
-> Alloysius Goh
+- Silas Cutler
+- Alloysius Goh
 
 
 
