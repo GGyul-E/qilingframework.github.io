@@ -14,7 +14,7 @@ We would like to thank individuals/organization that generously donated to Qilin
 <h1>To support Qiling Framework</h1>
 
 - Opensource project is never an easy task. We value any help from the community
-- Please drop me an email kj@qiling.io after making the donation, I will mail you some swag as a token of appreciation
+- Please drop an email to kj@qiling.io after making the donation, we will mail you some swag as a token of appreciation
 
 ##### XMR: 
 - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
