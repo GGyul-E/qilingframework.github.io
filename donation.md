@@ -28,7 +28,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
-#### Paypal via Web Store
+##### Paypal via Web Store
 - https://www.hardwareninja.store/c/QilingFramework
 
 ##### XMR: 
