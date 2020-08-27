@@ -14,7 +14,16 @@ We would like to thank individual/organization that generously donated to Qiling
 <h1>To support Qiling Framework</h1>
 
 - Opensource project is never an easy task. We value any help from the community
-- Please drop an email to kj@qiling.io after making the donation, we will mail you some swag as a token of appreciation
+- Please notify us via email to kj@qiling.io after making the donation.
+- We will mail you some swag as a token of appreciation. However, due to international postage cost, we will be giving out swag following structure below:-
+
+< USD 20 - Name on donation page
+USD 20 - Stickers
+USD 60 - Stickers + USB Drive
+USD 120 - Stickers + USB Dirve + T-Shirt
+
+
+"USD" denotes the US dolar equivalent amount of coin value during the time of donation.
 
 ##### XMR: 
 - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
