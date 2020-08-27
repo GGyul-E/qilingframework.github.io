@@ -23,6 +23,8 @@ Opensource project is never an easy task. We value any help from the communityWe
 
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation.
 
+[![Qiling swag](https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg)]
+
 
 ##### XMR: 
 - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
