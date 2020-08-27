@@ -24,7 +24,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
   - 120 USD and above - Stickers + USB Dirve + T-Shirt
 
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation
-- Paypal accepted at our web store
+- Paypal is accepted at our web store
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
