@@ -17,9 +17,9 @@ We would like to thank individual/organization that generously donated to Qiling
 - Please notify us via email to kj@qiling.io after making the donation.
 - We will mail you some swag as a token of appreciation. However, due to international postage cost, we will be giving out swag following structure below:-
 
-< USD 20 - Name on donation page
-USD 20 - Stickers
-USD 60 - Stickers + USB Drive
+< USD 20 - Name on donation page<br>
+USD 20 - Stickers<br>
+USD 60 - Stickers + USB Drive<br>
 USD 120 - Stickers + USB Dirve + T-Shirt
 
 
