@@ -20,6 +20,7 @@ Opensource project is never an easy task. We value any help from the communityWe
   - 20 USD - Stickers<br>
   - 60 USD- Stickers + USB Drive<br>
   - 120 USD and above - Stickers + USB Dirve + T-Shirt
+  
 
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation.
 
