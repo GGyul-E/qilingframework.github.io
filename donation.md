@@ -27,6 +27,8 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
+#### Web Store
+- https://www.hardwareninja.store/c/QilingFramework
 
 ##### XMR: 
 - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
