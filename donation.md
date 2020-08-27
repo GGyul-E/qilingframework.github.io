@@ -14,7 +14,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 <br>
 <h1>To support Qiling Framework</h1>
 
-- Please notify us via email to kj@qiling.io after making the donation.
+- Please notify us via email to [kj@qiling.io](mailto:kj@qiling.io) after making the donation.
 - These are not ready made. So, you might need to wait abit for the goods to be delivered.
 - To makes things easier, we structure the "price" this way :-
 
@@ -29,7 +29,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
 ##### Paypal via Web Store
-- https://www.hardwareninja.store/c/QilingFramework
+- [https://www.hardwareninja.store/c/QilingFramework](https://www.hardwareninja.store/c/QilingFramework)
 
 ##### XMR: 
 - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
