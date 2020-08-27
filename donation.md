@@ -3,7 +3,8 @@ layout: page
 title: Donation
 permalink: /donation/
 ---
-We would like to thank individual/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
+
+Opensource project is never an easy task. We value any help from the communityWe would like to thank individual/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
 
 - Silas Cutler
 - Alloysius Goh
@@ -12,7 +13,6 @@ We would like to thank individual/organization that generously donated to Qiling
 <br>
 <h1>To support Qiling Framework</h1>
 
-- Opensource project is never an easy task. We value any help from the community
 - Please notify us via email to kj@qiling.io after making the donation.
 - We will mail you some swag as a token of appreciation. However, due to international postage cost, we will be giving out swag following structure below:-
 
