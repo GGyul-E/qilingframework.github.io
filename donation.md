@@ -4,7 +4,7 @@ title: Donation
 permalink: /donation/
 ---
 
-Opensource project is never an easy task. We value any help from the communityWe would like to thank individual/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
+Opensource project is never an easy task. Hence, we value any help from the community. We would like to thank individual/organization that generously donated to Qiling Framework project. Listed below are not in any particular order:
 
 - Silas Cutler
 - Alloysius Goh
