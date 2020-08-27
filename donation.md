@@ -15,7 +15,8 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 <h1>To support Qiling Framework</h1>
 
 - Please notify us via email to kj@qiling.io after making the donation.
-- We will mail you some swag as a token of appreciation. However, due to international postage cost, we will be giving out swag following structure below:-
+- These are not ready made. So, you might need to wait abit for the goods to be delivered.
+- To makes things easier, we structure the "price" this way :-
 
   - Below 20 USD - Name on donation page<br>
   - 20 USD - Stickers<br>
