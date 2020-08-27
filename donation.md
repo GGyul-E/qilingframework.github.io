@@ -8,6 +8,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 - Silas Cutler
 - Alloysius Goh
+- Brendan Scarvell
 
 
 <br>
