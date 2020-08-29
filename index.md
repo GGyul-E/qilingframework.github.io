@@ -3,6 +3,19 @@ Qiling Framework is an ultra lightweight "sandbox" for Linux, MacOS, Windows, Fr
 
 API-rich Qiling Framework brings reverse and instrument binary to the next level. Qiling provides all types API access to register, memory and different operation system level. Qiling also provides virtual machine level API such as save execution state and restore execution state.
 
+#### Conference Appearance
+- 2020:
+    - Blackhast, USA
+    - Blackhat, Asia
+    - Hack In The Box, Lockdown 001
+    - Hack In The Box, Lockdown 002
+    - Nullcon
+    
+- 2019:
+    - Defcon, USA
+    - Hitcon
+    - Zeronights
+    
 ---
 <h1>Why Do We Need Qiling Framework</h1>
 The insecurity of smart Internet-connected or so-called “IoT” devices has become more concerning than ever. The existence of malware exploiting vulnerable, often poorly secured and configured Internet-facing devices has been known for many years. Hardware vendors and the entire security industry are struggling to fight the adversaries while trying to build better and safer products. Unfortunately, IoT threats and malware analysis remain the two biggest challenges in the security industry.
