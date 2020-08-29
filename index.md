@@ -24,8 +24,6 @@ Modern IoT threats and malware are moving towards various platforms and CPU arch
 
 Common techniques used to perform analysis such as full system emulation, user-mode emulation, binary instrumentation, disassembler and sandboxing are just barely sufficient. These tools are either serving single type operating system or works on one CPU architecture. Also, these tools need to be used separately, streamlining information or cross referencing data is almost impossible. These are the reasons why reverse engineering is never an easy task.
 
-* [1] Research from SonicWall has revealed that a record high of 10.52bn malware attacks occurred in 2018 indicating an escalation in the volume of cyberattacks as well as new targeted threat tactics used by cybercriminals
-
 ---
 <h1>Solution</h1>
 Qiling Framework is aimed to change IoT security research, malware analysis and reverse engineering landscape. The main objective is to build a cross-platform and multi-architecture framework and not just another reverse engineering tool. 
