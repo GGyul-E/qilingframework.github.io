@@ -30,10 +30,11 @@ Common techniques used to perform analysis such as full system emulation, user-m
     - Using Qiling For IoT, malware, UEFI and MBR research
     - Building new tools on top of Qiling Framework such as malware sandbox or fuzzer
 - University Student
-    - University students(including master and PhD), build their thesis base on adding new feature or building new tools ontop of Qiling Framework
+    - University students (including master and PhD), build their thesis based on adding new feature or building new tools on top of Qiling Framework
 - University Lecturer
     - Teaching students how to build operation system
-    - Easiest way to expalin how syscall, cpu or filesystem works
+    - Easiest way to explain how syscall, cpu or filesystem works
+
 ---
 <h1>What is Qiling Framework</h1>
 Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework. With Qiling Framework, it able to:
@@ -41,11 +42,11 @@ Qiling Framework is not just an emulation platform or a reverse engineering tool
 - Cross platform: Windows, MacOS, Linux, BSD, UEFI, DOS
 - Cross architecture: X86, X86_64, Arm, Arm64, MIPS, 8086
 - Multiple file formats: PE, MachO, ELF, COM
-- Emulate & sandbox machine code in a isolated environment
+- Emulates & sandbox machine code in an isolated environment
 - Supports cross architecture and platform debugging capabilities
-- Provide high level API to setup & configure the sandbox
+- Provides high level API to setup & configure the sandbox
 - Fine-grain instrumentation: allow hooks at various levels (instruction/basic-block/memory-access/exception/syscall/IO/etc)
-- Allow dynamic hotpatch on-the-fly running code, including the loaded library
+- Allows dynamic hotpatch on-the-fly running code, including the loaded library
 - True framework in Python, making it easy to build customized security analysis tools on top
 
 Qiling Framework is able to emulate: 
