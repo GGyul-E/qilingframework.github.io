@@ -1,4 +1,10 @@
-<h1>Threat, Research and Workaround</h1>
+<h1>What Is Qiling Framework</h1>
+Qiling Framework is a ultra lightweight "sandbox" for Linux, MacOS, Windows, FreeBSD, DOS, UEFI and MBR. That support x86 (16, 32 and 64bit), arm, arm64 and mips. Instead of building a "sandboxing" tool, Qiling is a framework design for reverse enginners, thus binary instrumentation and API is our first piority.
+
+API rich Qiling Framework brings reverse and instrumen binary to the next level. Qiling provices all types API access to register, memory and different operation system level. Qiling also provies virtual machine level API such as save execution state and restore execution state.
+
+---
+<h1>Why Do We Need Qiling Framework/h1>
 The insecurity of smart Internet-connected or so-called “IoT” devices has become more concerning than ever. The existence of malware exploiting vulnerable, often poorly secured and configured Internet-facing devices has been known for many years. Hardware vendors and the entire security industry are struggling to fight the adversaries while trying to build better and safer products. Unfortunately, IoT threats and malware analysis remain the two biggest challenges in the security industry.
 
 Modern IoT threats and malware are moving towards various platforms and CPU architecture. Reverse engineers are struggling to cope and understand different operating systems and CPU architecture. Besides, lack of updated tools makes the situation worse. Current available tools are nowhere near to catch up with the speed of fast-growing security threat.
@@ -16,7 +22,7 @@ Qiling Framework is designed as a binary instrumentation and binary emulation fr
 Qiling Framework is open source and it is written in Python, a simple and commonly used programming language. This will encourage continuous contributions from the security and open-source community. Hence, making the Qiling Framework a sustainable project.
 
 ---
-<h1>What is Qiling Framework</h1>
+<h1>What really is Qiling Framework</h1>
 Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework. With Qiling Framework, it able to:
 
   - Redirect process execution flow on the fly
@@ -24,6 +30,9 @@ Qiling Framework is not just an emulation platform or a reverse engineering tool
   - Code injection during execution
   - Partial binary execution, without running the entire file
   - Patch a "unpacked" content of a packed binary file
+  - Save and restore current execution state
+  - Build in debugger with reverse debugging support
+  - IDA plugin with scriptable feature
 
 Qiling Framework is able to emulate: 
   - Windows X86 32/64bit
@@ -32,6 +41,7 @@ Qiling Framework is able to emulate:
   - FreeBSD X86 32/64bit
   - UEFI
   - DOS
+  - MBR
 
 Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) without CPU architecture limitation
 
