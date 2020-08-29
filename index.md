@@ -25,13 +25,15 @@ Modern IoT threats and malware are moving towards various platforms and CPU arch
 Common techniques used to perform analysis such as full system emulation, user-mode emulation, binary instrumentation, disassembler and sandboxing are just barely sufficient. These tools are either serving single type operating system or works on one CPU architecture. Also, these tools need to be used separately, streamlining information or cross referencing data is almost impossible. These are the reasons why reverse engineering is never an easy task.
 
 ---
-<h1>Solution</h1>
-Qiling Framework is aimed to change IoT security research, malware analysis and reverse engineering landscape. The main objective is to build a cross-platform and multi-architecture framework and not just another reverse engineering tool. 
-
-Qiling Framework is designed as a binary instrumentation and binary emulation framework that supports cross-platform and multi-architecture. It is packed with powerful features such as code interception and arbitrary code injection before or during a binary execution. It is also able to patch a packed binary during execution.
-
-Qiling Framework is open source and it is written in Python, a simple and commonly used programming language. This will encourage continuous contributions from the security and open-source community. Hence, making the Qiling Framework a sustainable project.
-
+<h1>Who Uses Qiling Framework</h1>
+- Security Researchers
+    - Using Qiling For IoT, malware, UEFI and MBR research
+    - Building new tools on top of Qiling Framework such as malware sandbox or fuzzer
+- University Student
+    - University students(including master and PhD), build their thesis base on adding new feature or building new tools ontop of Qiling Framework
+- University Lecturer
+    - Teaching students how to build operation system
+    - Easiest way to expalin how syscall, cpu or filesystem works
 ---
 <h1>What is Qiling Framework</h1>
 Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework. With Qiling Framework, it able to:
