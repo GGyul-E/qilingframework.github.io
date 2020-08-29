@@ -1,4 +1,4 @@
-<h1>What Is Qiling Framework</h1>
+<h1>Qiling Framework</h1>
 Qiling Framework is an ultra lightweight "sandbox" for Linux, MacOS, Windows, FreeBSD, DOS, UEFI and MBR. It supports x86 (16, 32 and 64bit), arm, arm64 and mips. Instead of building a "sandboxing" tool, Qiling is a framework designed for reverse enginners, thus binary instrumentation and API is Qiling's first piority.
 
 API-rich Qiling Framework brings reverse and instrument binary to the next level. Qiling provides all types API access to register, memory and different operation system level. Qiling also provides virtual machine level API such as save execution state and restore execution state.
@@ -33,28 +33,29 @@ Qiling Framework is designed as a binary instrumentation and binary emulation fr
 Qiling Framework is open source and it is written in Python, a simple and commonly used programming language. This will encourage continuous contributions from the security and open-source community. Hence, making the Qiling Framework a sustainable project.
 
 ---
-<h1>What really is Qiling Framework</h1>
+<h1>What is Qiling Framework</h1>
 Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework. With Qiling Framework, it able to:
 
-  - Redirect process execution flow on the fly
-  - Hot-patching binary during execution
-  - Code injection during execution
-  - Partial binary execution, without running the entire file
-  - Patch a "unpacked" content of a packed binary file
-  - Save and restore current execution state
-  - Build in debugger with reverse debugging support
-  - IDA plugin with scriptable feature
+- Cross platform: Windows, MacOS, Linux, BSD, UEFI, DOS
+- Cross architecture: X86, X86_64, Arm, Arm64, MIPS, 8086
+- Multiple file formats: PE, MachO, ELF, COM
+- Emulate & sandbox machine code in a isolated environment
+- Supports cross architecture and platform debugging capabilities
+- Provide high level API to setup & configure the sandbox
+- Fine-grain instrumentation: allow hooks at various levels (instruction/basic-block/memory-access/exception/syscall/IO/etc)
+- Allow dynamic hotpatch on-the-fly running code, including the loaded library
+- True framework in Python, making it easy to build customized security analysis tools on top
 
 Qiling Framework is able to emulate: 
-  - Windows X86 32/64bit
-  - Linux X86 32/64bit, ARM, AARCH64, MIPS
-  - MacOS X86 32/64bit
-  - FreeBSD X86 32/64bit
-  - UEFI
-  - DOS
-  - MBR
+- Windows X86 32/64bit
+- Linux X86 32/64bit, ARM, AARCH64, MIPS
+- MacOS X86 32/64bit
+- FreeBSD X86 32/64bit
+- UEFI
+- DOS
+- MBR
 
-Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL) without CPU architecture limitation
+Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL2) without CPU architecture limitation
 
 ---
 
