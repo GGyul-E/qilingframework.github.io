@@ -10,10 +10,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - Alloysius Goh
 - Brendan Scarvell
 
-
-<br>
 <h1>To support Qiling Framework</h1>
-
 - To makes things easier, we structure the "price" this way :-
 
 ```
