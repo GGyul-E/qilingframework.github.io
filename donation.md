@@ -15,11 +15,11 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 ```
   - Below 20USD: Name on donation page
-  - 20USD: Stickers
-  - 60USD: Stickers + USB Drive
-  - 120USD and above: Stickers + USB Dirve + T-Shirt
+  - 20USD: Stickers + Name listing
+  - 60USD: Stickers + USB Drive + Name listing
+  - 120USD and above: Stickers + USB Dirve + T-Shirt + Name listing
 ```  
-- Name on donation page is default, let me know if you dont want to
+- Name on donation page is default, please let me know if you don't agree
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation  
 - Please notify us via email to kj@qiling.io after making the donation.
 - These are not ready made. So, you might need to wait abit for the goods to be delivered.
@@ -44,3 +44,4 @@ BTC
   - 1NmxDWWak8qtpmYGnXBK1osRNNYH2zxpZs
  
 ```
+
