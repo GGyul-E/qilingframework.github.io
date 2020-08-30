@@ -57,7 +57,7 @@ Qiling Framework is able to emulate:
 - DOS
 - MBR
 
-Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows(WSL2) without CPU architecture limitation
+Qiling Framework is able to run on top of Linux/FreeBSD/MacOS/Windows (WSL2) without CPU architecture limitation
 
 ---
 
