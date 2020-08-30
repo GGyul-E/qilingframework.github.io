@@ -116,19 +116,7 @@ def nvram_listener():
             while True:  
                 data += str(connection.recv(1024))
         
-                if "lan.webiplansslen" in data:  
-                    connection.send('192.168.170.169'.encode())  
-                elif "wan_ifname" in data:
-                    connection.send('eth0'.encode())
-                elif "wan_ifnames" in data:
-                    connection.send('eth0'.encode())
-                elif "wan0_ifname" in data:
-                    connection.send('eth0'.encode())
-                elif "wan0_ifnames" in data:
-                    connection.send('eth0'.encode())
-                elif "sys.workmode" in data:
-                    connection.send('bridge'.encode())
-                elif "wan1.ip" in data:
+                if "wan1.ip" in data:
                     connection.send('1.1.1.1'.encode())
                 else: 
                     break  
