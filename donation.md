@@ -17,9 +17,9 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - To makes things easier, we structure the "price" this way :-
 
 ```
-  - Below 20 USD - Name on donation page<br>
-  - 20 USD - Stickers<br>
-  - 60 USD- Stickers + USB Drive<br>
+  - Below 20 USD - Name on donation page
+  - 20 USD - Stickers
+  - 60 USD- Stickers + USB Drive
   - 120 USD and above - Stickers + USB Dirve + T-Shirt
 ```  
 
@@ -30,10 +30,11 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
-
 - Paypal: https://www.hardwareninja.store/c/QilingFramework
 - Crypto Currencies:
+
 ```  
+
 XMR
   - 46T1c5taWuP6G4XvAG5shC6a7eai4Qe4HPFj5qEGyJzzMVRa9M9MR4DbNbbSDKtbgNR6bvWyj32Wb3HySYZuDqUp2GCr52o
 DASH
@@ -44,4 +45,5 @@ ETH
   - 0xec095228411d4a232f4d221ad7defcde36eb981f
 BTC
   - 1NmxDWWak8qtpmYGnXBK1osRNNYH2zxpZs
+ 
 ```
