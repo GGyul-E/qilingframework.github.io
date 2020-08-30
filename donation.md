@@ -11,7 +11,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - Brendan Scarvell
 
 <h1>To support Qiling Framework</h1>
-- To makes things easier, we structure the "price" this way :-
+- To make things easier, we structure the "price" this way :-
 
 ```
   - Below 20USD: Name on donation page
@@ -22,13 +22,13 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 
 - Name on donation page is default, please let me know if you don't agree
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation  
-- Please notify us via email to kj@qiling.io after making the donation.
-- These are not ready made. So, you might need to wait abit for the goods to be delivered.
-- Paypal accepted at our web store
+- Please notify us via email to [kj@qiling.io](mailto:kj@qiling.io) after making the donation.
+- These are not ready made. So, you might need to wait a while for the swags to be delivered.
+- Paypal is accepted at our web store
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
-- Paypal: https://www.hardwareninja.store/c/QilingFramework
+- Paypal: [https://www.hardwareninja.store/c/QilingFramework](https://www.hardwareninja.store/c/QilingFramework)
 - Crypto Currencies:
 
 ```  
