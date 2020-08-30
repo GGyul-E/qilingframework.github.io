@@ -4,8 +4,8 @@ API-rich Qiling Framework brings reverse and instrument binary to the next level
 
 ### Conference Appearance
 - 2020:
-    - Blackhast, USA
-    - Blackhat, Asia
+    - Black Hat, USA
+    - Black Hat, Asia
     - Hack In The Box, Lockdown 001
     - Hack In The Box, Lockdown 002
     - Nullcon
