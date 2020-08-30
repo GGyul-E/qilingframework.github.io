@@ -2,8 +2,8 @@ Qiling Framework is an ultra lightweight "sandbox" for Linux, MacOS, Windows, Fr
 
 API-rich Qiling Framework brings reverse and instrument binary to the next level. Qiling provides API access to register, memory, filesystem, operating system and debuger. Qiling also provides virtual machine level API such as save and restore execution state.
 
----
-#### Appearance
+Qiling Framework also made its way to internal conference,
+
 2020:
 
 - Black Hat, USA
