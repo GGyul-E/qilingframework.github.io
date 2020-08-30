@@ -37,7 +37,7 @@ Qemu usermode does similar thing, that is to emulate whole executable binaries i
 
 ---
 
-##### Qiling Framework vs Binee/Zelos/Speakeasy
+##### Qiling Framework vs Binee
 - Binee is an emulation tool built with GO language but it is not an instrumentation framework. Binee does not allow dynamic hooking, hotpatching or provide any customization. Qiling Framework, designed as a Python module, offers far more capability, making a lot of dynamic analysis possible
 - Binee supports only Windows. Qiling Framework supports more platforms and architecture
 
