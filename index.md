@@ -41,7 +41,7 @@ Common techniques used to perform analysis such as full system emulation, user-m
 
 ---
 <h1>What is Qiling Framework</h1>
-Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework, solving the problem that applications do not run in vacuum and are highly dependent on the OS. With vast OS support, Qiling Framework opens up endless possibilities and potential for binary analysis. With Qiling Framework, it is able to:
+Qiling Framework is not just an emulation platform or a reverse engineering tool. It combines binary instrumentation and binary emulation into one single framework, solving the problem that applications do not run in a vacuum and are highly dependent on the OS. With vast OS support, Qiling Framework opens up endless possibilities and potential for binary analysis. With Qiling Framework, it is able to:
 
 - Cross platform: Windows, MacOS, Linux, BSD, UEFI, DOS
 - Cross architecture: X86, X86_64, ARM, ARM64, MIPS, 8086
