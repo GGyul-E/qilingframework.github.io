@@ -1,4 +1,4 @@
-Qiling Framework is an ultra lightweight “sandbox” for Linux, MacOS, Windows, FreeBSD, DOS, UEFI and MBR. It supports x86 (16, 32 and 64bit), ARM, ARM64 and MIPS. 
+Qiling Framework is an ultra lightweight “sandbox” for Linux, MacOS, Windows, FreeBSD, DOS, UEFI and MBR. It supports x86 (16, 32 and 64bit), ARM, ARM64 and MIPS. It also support Linux Kernel Module(.ko) , Windows Driver(.sys) and MacOS Kernel(.kext) via [Demigod](https://groundx.io/demigod/).
 
 Binary instrumentation and API are Qiling Framework main focus and priority. It is designed for reverse engineers - thus there is no need to rebuild another sand boxing tool. Using Qiling Framework saves you time. The API-rich Qiling Framework brings reverse and instrument binary to the next level quicker. 
 
