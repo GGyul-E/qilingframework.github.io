@@ -24,7 +24,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - "USD" denotes the US dolar equivalent amount of coin value during the time of donation  
 - Please notify us via email to [kj@qiling.io](mailto:kj@qiling.io) after making the donation.
 - These are not ready made. So, you might need to wait a while for the swags to be delivered.
-- Paypal is accepted at our web store
+- Paypal is accepted at our [web store](https://www.hardwareninja.store/c/QilingFramework)
 
 <img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
 
