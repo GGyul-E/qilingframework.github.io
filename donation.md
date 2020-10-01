@@ -26,7 +26,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - These are not ready made. So, you might need to wait a while for the swags to be delivered.
 - Paypal is accepted at our [web store](https://www.hardwareninja.store/c/QilingFramework)
 
-<img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/swag.jpg">
+<img src="https://raw.githubusercontent.com/qilingframework/qilingframework.github.io/master/images/donation-girl.jpg">
 
 - Paypal: [https://www.hardwareninja.store/c/QilingFramework](https://www.hardwareninja.store/c/QilingFramework)
 - Crypto Currencies:
