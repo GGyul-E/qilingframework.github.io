@@ -57,6 +57,15 @@ Earl Marcus is a weekend coder, hardware tinkerer and cybersecurity enthusiast i
 
 ---
 
+<h3>WU chenxu (kabeor)</h3>
+#### Developer
+
+---
+
+<h3>KONG ziqiao (lazymio)</h3>
+#### Developer
+
+---
 
 <h3>FOO Kevin (chfl4gs)</h3>
 #### Docker, documentation, Travis-CI and website
