@@ -20,6 +20,14 @@ As a passionate coder, Dr. Nguyen is the founder and maintainer of several open 
 
 ---
 
+
+<h3>FOO Kevin (chfl4gs)</h3>
+#### Docker, documentation, Travis-CI and website
+
+Kevin is a security practitioner and previously involved in various projects such as the Honeynet project and Hex LiveCD project.
+
+---
+
 <h3>DING Tian Ze (D1iv3)</h3>
 #### Developer
 
@@ -57,19 +65,18 @@ Earl Marcus is a weekend coder, hardware tinkerer and cybersecurity enthusiast i
 
 ---
 
+
 <h3>WU chenxu (kabeor)</h3>
 #### Developer
 
+Chen Xu, Wu is a regular CTF player. His research focuses on automated binary analysis. He was a speaker of BlackHat Asia 2020, China kanxue SDC 2020.  He is also key contributors for Qiling Framework (https://qiling.io)
+
 ---
+
 
 <h3>KONG ziqiao (lazymio)</h3>
 #### Developer
 
----
-
-<h3>FOO Kevin (chfl4gs)</h3>
-#### Docker, documentation, Travis-CI and website
-
-Kevin is a security practitioner and previously involved in various projects such as the Honeynet project and Hex LiveCD project.
+Ziqiao Kong is a security researcher at the Shepherd Lab of JD Security. He has broad research interests in binary analysis, reverse engineering and code audit. He was awarded the Hall of Fame in GeekPwn 2019 and gave talks at BlackHat Asia2020 and China Kanxue SDC 2020. He also has papers to be published on top security conferences and works as an active contributor to several open-source projects including Unicorn (https://unicorn-engine.org) and Qiling Framework (https://qiling.io).
 
 ---
