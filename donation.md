@@ -9,14 +9,15 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - Silas Cutler
 - Alloysius Goh
 - Brendan Scarvell
+- Shawn C
 
 <h1>To support Qiling Framework</h1>
 - To make things easier, we structure the "price" this way :-
 
 ```
   - Below 20USD: Name on donation page
-  - 20USD: Stickers + Name on donation page
-  - 60USD: Stickers + USB drive + Name on donation page 
+  ~~- 20USD: Stickers + Name on donation page~~
+  ~~- 60USD: Stickers + USB drive + Name on donation page~~
   - 120USD and above: Stickers + USB dirve + T-Shirt + Name on donation page
 ```  
 
