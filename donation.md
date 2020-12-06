@@ -43,7 +43,7 @@ ADA
 ETH
   - 0xec095228411d4a232f4d221ad7defcde36eb981f
 BTC
-  - 1NmxDWWak8qtpmYGnXBK1osRNNYH2zxpZs
+  - 1KCGw3sQxn5a73YZeKpYSj2sttuySbesng
  
 ```
 
