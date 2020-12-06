@@ -15,7 +15,7 @@ Opensource project is never an easy task. Hence, we value any help from the comm
 - To make things easier, we structure the "price" this way :-
 
 ```
-  - < 150 Name on donation page
+  - < 150USD: Name on donation page
   - => 150USD: Stickers + USB dirve + T-Shirt + Name on donation page
 ```  
 
