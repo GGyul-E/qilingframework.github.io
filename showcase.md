@@ -4,8 +4,6 @@ title: Showcase
 permalink: /showcase/
 ---
 
-
-Showcase
 ======
 - Qualcomm Sahara / Firehose Attack Client / Diag Tools
 >- [https://github.com/bkerler/edl](https://github.com/bkerler/edl)
