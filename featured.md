@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feature list
+title: Featured list
 permalink: /featured/
 ---
 
