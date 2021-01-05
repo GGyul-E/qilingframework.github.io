@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Showcase
-permalink: /showcase/
+title: Feature list
+permalink: /featured/
 ---
 
 - Qualcomm Sahara / Firehose Attack Client / Diag Tools
